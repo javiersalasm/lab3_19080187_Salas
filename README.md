@@ -1,1 +1,1 @@
-# lab3_19080187_Salas
+# Laboratorio N°3 Paradigmas de Programación 2-2023
