@@ -1,0 +1,19 @@
+Requerimientos Funcionales			Puntaje
+   Clases y estructuras				1
+   Menú interactivo por terminal		1
+1. TDA Option 					1
+2. TDA Flow 					1
+3. flowAddOption				1
+4. TDA chatbot 					1
+5. chatbotAddFlow				1
+6. TDA Usuario					1
+7. TDA System					1
+8. systemAddChatbot				1
+9. systemAddUser				1
+10. systemLogin					1
+11. systemLogout				1
+12. systemTalk					1
+13. systemSynthesis				1
+14. systemSimulate				0
+
+
